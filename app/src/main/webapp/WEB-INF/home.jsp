@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exemplo JSPt</title>
+    <title>Exemplo JSPt/title>
 </head>
 <body>
-    <h1>Olá, Mundo!</h1>
+    <h1>Saudação: ${msg}</h1>
 </body>
 </html>
